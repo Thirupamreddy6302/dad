@@ -21,3 +21,10 @@ if(0=='/'):
 	res=divide(i,j)
 
 print(res)
+
+OUTPUT:
+python3 calcy.py
+enter value of a:15
+enter value of b:5
+what do you want to do?+,-,*,/: /
+3
