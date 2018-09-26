@@ -12,3 +12,7 @@ def sub():
 
 res=sub()
 print(res)
+
+OUTPUT:
+35
+5
