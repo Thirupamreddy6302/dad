@@ -4,9 +4,5 @@ b=15
 c=a+b
 print(a,"+",b,"=",c)
 
-
-
-
-
-python3 yamini.py
+OUTPUT:
 20 + 15 = 35
