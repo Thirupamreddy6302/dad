@@ -6,7 +6,7 @@ while True:
 		print("q")
 		break
 
-OUTPTU:
+OUTPTUT:
 enter some value:56
 q
 enter some value:1
