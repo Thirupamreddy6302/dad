@@ -5,3 +5,14 @@ while True:
 	else:
 		print("m")
 		break
+
+OUTPUT:
+enter some value:1
+s
+enter some value:1
+s
+enter some value:1
+s
+enter some value:2
+m
+		
