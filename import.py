@@ -21,3 +21,10 @@ while(count<=100):
 				count=34
 				print("hurray you have climb up a ladder")
 			break
+			
+
+OUTPUT:			
+hello
+enter r to roll a dicer
+r value is 6
+score is 6
