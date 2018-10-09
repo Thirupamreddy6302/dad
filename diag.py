@@ -39,4 +39,45 @@ while True:
 					
 	else:
 		continue
+	
+	
+OUTPUT:		
+| 1 | 2 | 3 |
+-----------
+| 4 | 5 | 6 |
+-----------
+| 7 | 8 | 9 |
+choose available place:1
+Player 1 >>
+| x | 2 | 3 |
+-----------
+| 4 | 5 | 6 |
+-----------
+| 7 | 8 | 9 |
+choose available place:3
+Player 2 >>
+| x | 2 | 0 |
+-----------
+| 4 | 5 | 6 |
+-----------
+| 7 | 8 | 9 |
+choose available place:4
+Player 1 >>
+| x | 2 | 0 |
+-----------
+| x | 5 | 6 |
+-----------
+| 7 | 8 | 9 |
+choose available place:9
+Player 2 >>
+| x | 2 | 0 |
+-----------
+| x | 5 | 6 |
+-----------
+| 7 | 8 | 0 |
+choose available place:7
+Player 1 >>
+game over
+
+		
 
