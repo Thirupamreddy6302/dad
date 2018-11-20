@@ -1,0 +1,27 @@
+>>> a='hello world'
+>>> a[1]
+'e'
+>>> print(a)
+hello world
+>>> a[2:5]
+'llo'
+>>> a.upper()
+'HELLO WORLD'
+>>> a.lower()
+'hello world'
+>>> b="hello all"
+>>> b.strip(" ")
+'hello all'
+>>> c="how r u"
+>>> c.split(",")
+['how r u']
+>>> d="hi,hoe r u"
+>>> d.split(",")
+['hi', 'hoe r u']
+>>> a*3
+'hello worldhello worldhello world'
+>>> a+b
+'hello worldhello all'
+>>> b.replace("h","a")
+'aello all'
+
